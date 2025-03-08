@@ -4,7 +4,7 @@ Here's a **GitHub README.md** specifically for deploying **reacter-steam** to Gi
 
 ### 📜 **README.md - Deploy reacter-steam to GitHub Pages**  
 
-```md
+
 # 🎮 Deploy reacter-steam to GitHub Pages  
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=for-the-badge&logo=github)  
